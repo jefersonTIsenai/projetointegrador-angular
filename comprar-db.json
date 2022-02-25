@@ -1,0 +1,25 @@
+{
+    "comprar": [
+        {
+            "id": 1,
+            "nome": "Chuteira Nike 2022",
+            "foto": "foto1.jpg",
+            "descricao": "Conforto e durabilidade",
+            "preco": 200
+        },
+        {
+            "id": 2,
+            "nome": "Chuteira Nike 2021",
+            "foto": "foto2.jpg",
+            "descricao": "Ideal para todos os momentos",
+            "preco": 300
+        },
+        {
+            "id": 3,
+            "nome": "Chuteira Adidas",
+            "foto": "foto3.jpg",
+            "descricao": "Para você que sonha em ser jogador profissional",
+            "preco": 400
+        }
+    ]
+}

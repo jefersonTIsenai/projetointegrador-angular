@@ -1,0 +1,18 @@
+<section class="lista-comprar">
+    <div *ngFor="let comprar of comprar">
+
+        <div class="card" style="width: 18rem;">
+            <img src="assets\img\comprar\{{comprar.foto}}" class="card-img-top" alt="...">
+            <div class="card-body">
+               
+                <h5 class="card-title"> Comprar: {{comprar.nome}}</h5>
+                <p class="card-text">Descrição :{{comprar.descricao}}</p>
+                <p class="card-text"> Preco:R$ {{comprar.preco}},00</p>
+                <a routerLink="/painel" class="btn btn-primary">Comprar</a>
+            </div>
+        </div>
+
+
+    </div>
+
+</section>

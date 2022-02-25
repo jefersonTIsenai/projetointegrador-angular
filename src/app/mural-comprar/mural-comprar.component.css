@@ -1,0 +1,10 @@
+.lista-comprar{
+    display: flex;
+    flex-direction: row;
+}
+
+.lista-comprar .card{
+    margin: 5px 10px ;
+    min-height: 600px ;
+
+}
